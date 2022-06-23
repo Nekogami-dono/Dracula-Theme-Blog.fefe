@@ -8,7 +8,6 @@
 @-moz-document domain("blog.fefe.de") {
       /* Quelltext hier eingeben... */
       html {
-            font-family: 'Anonymous Pro', monospace;
             Background-color: #29293a;
       }
       @media(prefers-color-scheme: dark) {
