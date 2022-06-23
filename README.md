@@ -2,7 +2,7 @@
 
 Getestet in Firefox mit [Stylish ](https://addons.mozilla.org/de/firefox/addon/stylish/)und [Stylus](https://addons.mozilla.org/de/firefox/addon/styl-us/).
 
-[Dracula-Theme?]([About — The origin story of the Dracula project](https://draculatheme.com/about))
+[Dracula-Theme?](https://draculatheme.com/about)
 
 **Info**:
 
