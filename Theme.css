@@ -1,0 +1,48 @@
+/* ==UserStyle==
+@name           blog.fefe.de Dracula-Theme 
+@namespace      github.com/openstyles/stylus
+@version        1.0.0
+@description    Dracula Theme for blog.fefe.de
+@author         Nekogami
+==/UserStyle== */
+@-moz-document domain("blog.fefe.de") {
+      /* Quelltext hier eingeben... */
+      @import url('https://fonts.googleapis.com/css2?family=Anonymous+Pro&display=swap');
+      html {
+            font-family: 'Anonymous Pro', monospace;
+            Background-color: #29293a;
+      }
+      @media(prefers-color-scheme: dark) {
+            :root {
+                  color: #ccc;
+                  background-color: #29293a;
+            }
+            h2 a {
+                  color: #ff79c6 !important;
+            }
+            h2 {
+                  color: #ff79c6 !important;
+            }
+            b {
+                  color: #C1C1C1;
+            }
+            h3 {
+                  color: #ff79c6;
+            }
+            li {
+                  color: #C1C1C1;
+            }
+            a {
+                  color: #1A659E
+            }
+            p {
+                  color: #C1C1C1;
+            }
+            div a {
+                  color: #50fa7b;
+            }
+            div {
+                  color: #f55;
+            }
+      }
+}
