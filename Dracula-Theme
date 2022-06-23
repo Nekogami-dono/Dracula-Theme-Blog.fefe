@@ -6,7 +6,6 @@
 @author         Nekogami
 ==/UserStyle== */
 @-moz-document domain("blog.fefe.de") {
-      /* Quelltext hier eingeben... */
       html {
             Background-color: #29293a;
       }
